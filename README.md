@@ -253,7 +253,7 @@ await browser.close();
 
 ```
 project/
-├── pdf-downloader.js          # Main script
+├── downloadPage.js          # Main script
 ├── package.json              # Dependencies
 ├── README.md                 # This file
 └── output/                   # Generated PDFs (optional)
