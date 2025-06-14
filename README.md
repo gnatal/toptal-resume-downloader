@@ -28,13 +28,13 @@ A powerful Node.js script that downloads clean, professional PDFs from web pages
    yarn add puppeteer
    ```
 
-3. **Save the script** as `pdf-downloader.js`
+3. **Save the script** as `downloadPage.js`
 
 ## 🚀 Usage
 
 ### Basic Usage
 ```bash
-node pdf-downloader.js
+node downloadPage.js
 ```
 
 ### What the script does:
