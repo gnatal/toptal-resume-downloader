@@ -290,7 +290,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **⚡ Quick Start:**
 ```bash
 npm install puppeteer
-node pdf-downloader.js
+node downloadPage.js
 ```
 
 **🎯 Result:** Clean, professional PDF saved to your Desktop!
